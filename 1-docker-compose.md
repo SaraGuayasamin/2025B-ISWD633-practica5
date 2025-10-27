@@ -46,8 +46,11 @@ docker compose up -d <nombre servicio>
 docker compose ps
 ```
 ### COMPLETAR CON UNA CAPTURA DE PANTALLA DEL LISTADO DE LOS CONTENEDORES EN EJECUCIÓN
+<img width="1707" height="498" alt="image" src="https://github.com/user-attachments/assets/d6bba3f7-82aa-4c08-b074-f6b48f96005c" />
 
 ### Detener y eliminar los contenedores definidos en el archivo
+<img width="1758" height="220" alt="image" src="https://github.com/user-attachments/assets/0874ecfc-574d-4b6c-b247-0b98eca5c130" />
+
 ```
 docker compose down
 ```
